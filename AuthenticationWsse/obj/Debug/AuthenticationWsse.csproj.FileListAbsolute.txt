@@ -1,0 +1,12 @@
+c:\users\s.endo\documents\visual studio 2013\Projects\AuthenticationWsse\AuthenticationWsse\bin\Debug\AuthenticationWsse.exe.config
+c:\users\s.endo\documents\visual studio 2013\Projects\AuthenticationWsse\AuthenticationWsse\obj\Debug\AuthenticationWsse.csprojResolveAssemblyReference.cache
+c:\users\s.endo\documents\visual studio 2013\Projects\AuthenticationWsse\AuthenticationWsse\bin\Debug\AuthenticationWsse.exe
+c:\users\s.endo\documents\visual studio 2013\Projects\AuthenticationWsse\AuthenticationWsse\bin\Debug\AuthenticationWsse.pdb
+c:\users\s.endo\documents\visual studio 2013\Projects\AuthenticationWsse\AuthenticationWsse\obj\Debug\AuthenticationWsse.exe
+c:\users\s.endo\documents\visual studio 2013\Projects\AuthenticationWsse\AuthenticationWsse\obj\Debug\AuthenticationWsse.pdb
+C:\Git\AtomPubPoster\AuthenticationWsse\bin\Debug\AuthenticationWsse.exe.config
+C:\Git\AtomPubPoster\AuthenticationWsse\obj\Debug\AuthenticationWsse.exe
+C:\Git\AtomPubPoster\AuthenticationWsse\obj\Debug\AuthenticationWsse.pdb
+C:\Git\AtomPubPoster\AuthenticationWsse\bin\Debug\AuthenticationWsse.exe
+C:\Git\AtomPubPoster\AuthenticationWsse\bin\Debug\AuthenticationWsse.pdb
+C:\Git\AtomPubPoster\AuthenticationWsse\obj\Debug\AuthenticationWsse.csprojResolveAssemblyReference.cache
